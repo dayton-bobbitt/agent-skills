@@ -24,7 +24,7 @@ npx skills add dayton-bobbitt/agent-skills/pensieve
 | Skill | Description |
 | --- | --- |
 | [`retro`](skills/retro/SKILL.md) | Review conversation history, recommend improvements, and update memory. |
-| [`pensieve`](skills/pensieve/SKILL.md) | Scan project-specific memories across `~/.claude/projects` and promote the globally-applicable ones to `~/AGENTS.md`. |
+| [`pensieve`](skills/pensieve/SKILL.md) | Scan project-specific memories across `~/.claude/projects` and promote the globally-applicable ones to `~/AGENTS.md`. Inspired by the magical device used by Dumbledore to store his memories. |
 
 ## Layout
 
